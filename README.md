@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexmerciful&label=Profile%20views&color=0e75b6&style=flat" alt="lexmerciful" /> </p>
 
+- 🔭 I’m currently working on **ALX Software Engineering Program**
+
 - 🌱 I’m actively learning and sometimes switching my oxygen to **Kotlin**
 
 - 💬 Ask me about **C#, Kotlin, etc**
