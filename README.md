@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexmerciful&label=Profile%20views&color=0e75b6&style=flat" alt="lexmerciful" /> </p>
 
-- 🌱 I’m actively learning and sometimes switching my oxygen to **Kotlin**
+- 🌱 Actively switching my oxygen to **Kotlin**
 
 - 💬 Ask me about **C#, Kotlin, etc**
 
 - 📫 How to reach me **lexmerciful@gmail.com**
 
-- ⚡ Fun fact **Been often told I'm quite funny😉🤪**
+- ⚡ Fun fact **Been often told I'm quite funny and nice to work with😉🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
